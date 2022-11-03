@@ -1,8 +1,7 @@
 # FastAPI boilerplate
 ___
 
-Boilerplate using FastAPI, SQLAlchemy, Jinja2
-
+Boilerplate using FastAPI, SQLAlchemy, Jinja2, tailwindcss, tailwind-elements
 ## Starting server
 ___
 
